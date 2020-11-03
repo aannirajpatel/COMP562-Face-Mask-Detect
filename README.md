@@ -19,3 +19,5 @@ Fall 2020 COMP562 Project at UNC Chapel Hill
 5. https://www.researchgate.net/publication/267063057_Face_detection_using_SVM-based_classification
 
 6. https://www.kaggle.com/timesler/guide-to-mtcnn-in-facenet-pytorch
+
+7. https://jakevdp.github.io/PythonDataScienceHandbook/05.14-image-features.html
