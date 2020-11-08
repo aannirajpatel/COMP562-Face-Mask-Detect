@@ -21,3 +21,5 @@ Fall 2020 COMP562 Project at UNC Chapel Hill
 6. https://www.kaggle.com/timesler/guide-to-mtcnn-in-facenet-pytorch
 
 7. https://jakevdp.github.io/PythonDataScienceHandbook/05.14-image-features.html
+
+8. https://www.researchgate.net/publication/243787029_Fast_Face_Detection_with_a_Boosted_CCCD_Classifier
