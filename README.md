@@ -1,7 +1,7 @@
 # COMP562-Face-Detect
 
 ## About
-Our aim is to analyse and compare two of the most common supervised machine learning algorithms used for detecting faces in images:
+Our aim is to analyse and compare two of the most common supervised machine learning algorithms used for detecting if masks are worn in images:
 1. Support Vector Machines, and
 2. Neural Networks
 
