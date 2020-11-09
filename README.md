@@ -6,6 +6,23 @@ We used a pre-trained Multi-Task Cascaded Convolutional Neural Network (facenet-
 
 Fall 2020 COMP562 Project at UNC Chapel Hill
 
+## Usage
+
+You will require the following libraries:
+<ol>
+<li>numpy</li>
+<li>pandas</li>
+<li>os (standard library)</li>
+<li>re (standard Python library)</li>
+<li>xml.etree.ElementTree (standard Python library)</li>
+<li>sklearn</li>
+<li>matplotlib</li>
+<li>opencv-python</li>
+<li>scipy</li>
+<li>pickle (standard Python library)</li>
+<li>pytorch</li>
+</ol>
+
 ## Dataset
 
 We used the Face Mask Detection dataset on Kaggle: https://www.kaggle.com/andrewmvd/face-mask-detection
