@@ -1,5 +1,9 @@
 # COMP562-Face-Mask-Detect
 
+## Demo
+
+https://youtu.be/d2ylPwF7zrc
+
 ## About
 
 We used a pre-trained Multi-Task Cascaded Convolutional Neural Network (facenet-pytorch MTCNN) and trained a PCA-SVM pipeline to detect faces in images and then classify them to see whether people in those images are wearing masks.
