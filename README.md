@@ -1,7 +1,8 @@
 # COMP562-Face-Mask-Detect
 
 ## About
-We used a pre-trained neural network and trained a PCA-SVM pipeline to detect faces in images and then classify them to see whether people in those images are wearing masks.
+
+We used a pre-trained Multi-Task Cascaded Convolutional Neural Network (facenet-pytorch MTCNN) and trained a PCA-SVM pipeline to detect faces in images and then classify them to see whether people in those images are wearing masks.
 
 Fall 2020 COMP562 Project at UNC Chapel Hill
 
@@ -13,8 +14,8 @@ Fall 2020 COMP562 Project at UNC Chapel Hill
 
 3. Working of MTCNN: https://towardsdatascience.com/how-does-a-face-detection-program-work-using-neural-networks-17896df8e6ff
 
-3. How to use MTCNN in facenet-pytorch: https://www.kaggle.com/timesler/guide-to-mtcnn-in-facenet-pytorch
+4. How to use MTCNN in facenet-pytorch: https://www.kaggle.com/timesler/guide-to-mtcnn-in-facenet-pytorch
 
-4. For learning how to code up a PCA-SVM pipeline: https://jakevdp.github.io/PythonDataScienceHandbook/05.07-support-vector-machines.html
+5. For learning how to code up a PCA-SVM pipeline: https://jakevdp.github.io/PythonDataScienceHandbook/05.07-support-vector-machines.html
 
-5. For handling the Face-Mask-Detection dataset and creating the <b>data</b> and <b>labels</b> arrays: https://www.kaggle.com/notadithyabhat/face-mask-detector/
+6. For handling the Face-Mask-Detection dataset and creating the <b>data</b> and <b>labels</b> arrays: https://www.kaggle.com/notadithyabhat/face-mask-detector/
