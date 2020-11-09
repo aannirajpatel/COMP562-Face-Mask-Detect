@@ -1,7 +1,8 @@
 # COMP562-Face-Mask-Detect
 
 ## About
-Our aim is use a pre-trained neural network and train a Support Vector Machine to detect faces in images and then classify them to see whether people in those images are wearing masks.
+We used a pre-trained neural network and train a Support Vector Machine to detect faces in images and then classify them to see whether people in those images are wearing masks.
+
 Fall 2020 COMP562 Project at UNC Chapel Hill
 
 ## Resources used:
