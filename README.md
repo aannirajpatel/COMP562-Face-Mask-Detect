@@ -6,26 +6,37 @@ We used a pre-trained Multi-Task Cascaded Convolutional Neural Network (facenet-
 
 Fall 2020 COMP562 Project at UNC Chapel Hill
 
-## Usage
-
-You will require the following libraries:
-<ol>
-<li>numpy</li>
-<li>pandas</li>
-<li>os (standard library)</li>
-<li>re (standard Python library)</li>
-<li>xml.etree.ElementTree (standard Python library)</li>
-<li>sklearn</li>
-<li>matplotlib</li>
-<li>opencv-python</li>
-<li>scipy</li>
-<li>pickle (standard Python library)</li>
-<li>pytorch</li>
-</ol>
-
 ## Dataset
 
 We used the Face Mask Detection dataset on Kaggle: https://www.kaggle.com/andrewmvd/face-mask-detection
+
+## Results
+
+![Without mask](https://github.com/aannirajpatel/COMP562-Face-Mask-Detect/raw/main/result-face-no-mask.png "Without mask")
+
+![Mask worn incorrectly](https://raw.githubusercontent.com/aannirajpatel/COMP562-Face-Mask-Detect/main/result-mask-worn-incorrect.png "Mask worn incorrectly")
+
+![With mask](https://github.com/aannirajpatel/COMP562-Face-Mask-Detect/raw/main/result-face-with-mask.png "With mask")
+
+## Usage
+
+You will require Python 3 along with the following dependencies installed:
+<ol>
+<li>[numpy] (https://numpy.org/install/)</li>
+<li>[pandas] (https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html#installing-from-pypi)</li>
+<li>os (standard Python library)</li>
+<li>re (standard Python library)</li>
+<li>xml.etree.ElementTree (standard Python library)</li>
+<li>[scikit-learn] (https://scikit-learn.org/stable/install.html)</li>
+<li>[matplotlib] (https://matplotlib.org/3.3.2/users/installing.html)</li>
+<li>[opencv-python (referred to as cv2 in the code, link is for CPU-only package)] (https://pypi.org/project/opencv-python/)</li>
+<li>[scipy] (https://www.scipy.org/install.html)</li>
+<li>pickle (standard Python library)</li>
+<li>[pytorch] (https://pytorch.org/get-started/locally/)</li>
+<li>[facenet-pytorch] (https://pypi.org/project/facenet-pytorch/)</li>
+</ol>
+
+You will also require Jupyter Notebook
 
 ## References
 
