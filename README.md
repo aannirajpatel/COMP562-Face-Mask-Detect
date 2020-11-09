@@ -45,11 +45,11 @@ You will require Python 3 along with the following dependencies installed:
 12. [facenet-pytorch](https://pypi.org/project/facenet-pytorch/)
 
 You will also require [Jupyter Notebook](https://jupyter.org/install)
-<br>
+<br><br>
 The application code is in the Jupyter Notebook in the repo's root directory: [comp562-face-mask-detector.ipynb](https://github.com/aannirajpatel/COMP562-Face-Mask-Detect/blob/main/comp562-face-mask-detector.ipynb)
-<br>
+<br><br>
 The model has already been trained. You will need to download the dataset from Kaggle if you would like to train the PCA-SVM pipeline with your own parameters. We have provided the model as a saved pickle object, that will get automatically loaded if it is kept in the same directory as the [comp562-face-mask-detector.ipynb](https://github.com/aannirajpatel/COMP562-Face-Mask-Detect/blob/main/comp562-face-mask-detector.ipynb) notebook.
-<br>
+<br><br>
 Once you have ensured the above requirements are satisfied, to use the application, just open the [comp562-face-mask-detector.ipynb](https://github.com/aannirajpatel/COMP562-Face-Mask-Detect/blob/main/comp562-face-mask-detector.ipynb) notebook with Jupyter Notebook and run the **last** cell.
 
 ## References
