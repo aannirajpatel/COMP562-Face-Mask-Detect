@@ -46,11 +46,17 @@ You will require Python 3 along with the following dependencies installed:
 
 You will also require [Jupyter Notebook](https://jupyter.org/install)
 <br><br>
-The application code is in the Jupyter Notebook in the repo's root directory: [comp562-face-mask-detector.ipynb](https://github.com/aannirajpatel/COMP562-Face-Mask-Detect/blob/main/comp562-face-mask-detector.ipynb)
+The application code is in the notebook in the repo's root directory: [comp562-face-mask-detector.ipynb](https://github.com/aannirajpatel/COMP562-Face-Mask-Detect/blob/main/comp562-face-mask-detector.ipynb)
 <br><br>
-The model has already been trained. You will need to download the dataset from Kaggle if you would like to train the PCA-SVM pipeline with your own parameters. We have provided the model as a saved pickle object, [face_mask_detect_model.pkl](https://github.com/aannirajpatel/COMP562-Face-Mask-Detect/blob/main/face_mask_detect_model.pkl), that will get automatically loaded if it is kept in the same directory as the [comp562-face-mask-detector.ipynb](https://github.com/aannirajpatel/COMP562-Face-Mask-Detect/blob/main/comp562-face-mask-detector.ipynb) notebook.
+Clone the GitHub repository, and open the notebook using Jupyter Notebook. To use just the app, simply run the **last cell** in the notebook. We have provided our trained PCA-SVM classifier model as a saved pickle object, [face_mask_detect_model.pkl](https://github.com/aannirajpatel/COMP562-Face-Mask-Detect/blob/main/face_mask_detect_model.pkl), that will get automatically loaded when you run the **last** cell, if it is kept in the same directory as the [comp562-face-mask-detector.ipynb](https://github.com/aannirajpatel/COMP562-Face-Mask-Detect/blob/main/comp562-face-mask-detector.ipynb) notebook.
 <br><br>
-Once you have ensured the above requirements are satisfied, to use the application, just open the [comp562-face-mask-detector.ipynb](https://github.com/aannirajpatel/COMP562-Face-Mask-Detect/blob/main/comp562-face-mask-detector.ipynb) notebook with Jupyter Notebook and run the **last** cell.
+If you would also like to train the model, or see how everything works, go in the order from first cell to last!
+<br><br>
+Please show your love, and leave a like if this helped!
+
+## Troubleshooting
+
+If the app is classifying wrongly, try facing the camera head-on and move closer to the camera. Make sure light is falling onto your face to illuminate it enough.
 
 ## References
 
