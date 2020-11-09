@@ -6,7 +6,11 @@ We used a pre-trained Multi-Task Cascaded Convolutional Neural Network (facenet-
 
 Fall 2020 COMP562 Project at UNC Chapel Hill
 
-## Resources used:
+## Dataset
+
+We used the Face Mask Detection dataset on Kaggle: https://www.kaggle.com/andrewmvd/face-mask-detection
+
+## References:
 
 1. The original MTCNN research paper: https://arxiv.org/abs/1604.02878
 
