@@ -11,18 +11,20 @@ Fall 2020 COMP562 Project at UNC Chapel Hill
 We used the Face Mask Detection dataset on Kaggle: https://www.kaggle.com/andrewmvd/face-mask-detection
 
 ## Results
-
+1. Without mask:
 ![Without mask](https://github.com/aannirajpatel/COMP562-Face-Mask-Detect/raw/main/result-face-no-mask.png "Without mask")
 
+2. Mask worn incorrectly:
 ![Mask worn incorrectly](https://raw.githubusercontent.com/aannirajpatel/COMP562-Face-Mask-Detect/main/result-mask-worn-incorrect.png "Mask worn incorrectly")
 
+3: With mask:
 ![With mask](https://github.com/aannirajpatel/COMP562-Face-Mask-Detect/raw/main/result-face-with-mask.png "With mask")
 
 ## Usage
 
 You will require Python 3 along with the following dependencies installed:
 <ol>
-<li>[numpy] (https://numpy.org/install/)</li>
+<li>[numpy](https://numpy.org/install/)</li>
 <li>[pandas] (https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html#installing-from-pypi)</li>
 <li>os (standard Python library)</li>
 <li>re (standard Python library)</li>
