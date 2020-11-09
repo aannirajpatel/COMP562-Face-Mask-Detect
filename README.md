@@ -4,8 +4,6 @@
 
 https://youtu.be/d2ylPwF7zrc
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d2ylPwF7zrc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## About
 
 We used a pre-trained Multi-Task Cascaded Convolutional Neural Network (facenet-pytorch MTCNN) and trained a PCA-SVM pipeline to detect faces in images and then classify them to see whether people in those images are wearing masks.
