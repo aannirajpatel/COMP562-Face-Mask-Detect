@@ -23,20 +23,19 @@ We used the Face Mask Detection dataset on Kaggle: https://www.kaggle.com/andrew
 ## Usage
 
 You will require Python 3 along with the following dependencies installed:
-<ol>
-<li>[numpy](https://numpy.org/install/)</li>
-<li>[pandas] (https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html#installing-from-pypi)</li>
-<li>os (standard Python library)</li>
-<li>re (standard Python library)</li>
-<li>xml.etree.ElementTree (standard Python library)</li>
-<li>[scikit-learn] (https://scikit-learn.org/stable/install.html)</li>
-<li>[matplotlib] (https://matplotlib.org/3.3.2/users/installing.html)</li>
-<li>[opencv-python (referred to as cv2 in the code, link is for CPU-only package)] (https://pypi.org/project/opencv-python/)</li>
-<li>[scipy] (https://www.scipy.org/install.html)</li>
-<li>pickle (standard Python library)</li>
-<li>[pytorch] (https://pytorch.org/get-started/locally/)</li>
-<li>[facenet-pytorch] (https://pypi.org/project/facenet-pytorch/)</li>
-</ol>
+1. [numpy](https://numpy.org/install/)
+2. [pandas] (https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html#installing-from-pypi)
+3. os (standard Python library)
+4. re (standard Python library)
+5. xml.etree.ElementTree (standard Python library)
+6. [scikit-learn] (https://scikit-learn.org/stable/install.html)
+7. [matplotlib] (https://matplotlib.org/3.3.2/users/installing.html)
+8. [opencv-python (referred to as cv2 in the code, link is for CPU-only package)] (https://pypi.org/project/opencv-python/)
+9. [scipy] (https://www.scipy.org/install.html)
+10. pickle (standard Python library)
+11. [pytorch] (https://pytorch.org/get-started/locally/)
+12. [facenet-pytorch] (https://pypi.org/project/facenet-pytorch/)
+
 
 You will also require Jupyter Notebook
 
