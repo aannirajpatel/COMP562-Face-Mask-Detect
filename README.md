@@ -24,20 +24,25 @@ We used the Face Mask Detection dataset on Kaggle: https://www.kaggle.com/andrew
 
 You will require Python 3 along with the following dependencies installed:
 1. [numpy](https://numpy.org/install/)
-2. [pandas] (https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html#installing-from-pypi)
+2. [pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html#installing-from-pypi)
 3. os (standard Python library)
 4. re (standard Python library)
 5. xml.etree.ElementTree (standard Python library)
-6. [scikit-learn] (https://scikit-learn.org/stable/install.html)
-7. [matplotlib] (https://matplotlib.org/3.3.2/users/installing.html)
-8. [opencv-python (referred to as cv2 in the code, link is for CPU-only package)] (https://pypi.org/project/opencv-python/)
-9. [scipy] (https://www.scipy.org/install.html)
+6. [scikit-learn](https://scikit-learn.org/stable/install.html)
+7. [matplotlib](https://matplotlib.org/3.3.2/users/installing.html)
+8. [opencv-python (referred to as cv2 in the code, link is for CPU-only package)](https://pypi.org/project/opencv-python/)
+9. [scipy](https://www.scipy.org/install.html)
 10. pickle (standard Python library)
-11. [pytorch] (https://pytorch.org/get-started/locally/)
-12. [facenet-pytorch] (https://pypi.org/project/facenet-pytorch/)
+11. [pytorch](https://pytorch.org/get-started/locally/)
+12. [facenet-pytorch](https://pypi.org/project/facenet-pytorch/)
 
-
-You will also require Jupyter Notebook
+You will also require [Jupyter Notebook](https://jupyter.org/install)
+<br>
+The application code is in the Jupyter Notebook in the repo's root directory: [comp562-face-mask-detector.ipynb](https://github.com/aannirajpatel/COMP562-Face-Mask-Detect/blob/main/comp562-face-mask-detector.ipynb)
+<br>
+The model has already been trained. You will need to download the dataset from Kaggle if you would like to train the PCA-SVM pipeline with your own parameters. We have provided the model as a saved pickle object, that will get automatically loaded if it is kept in the same directory as the [comp562-face-mask-detector.ipynb](https://github.com/aannirajpatel/COMP562-Face-Mask-Detect/blob/main/comp562-face-mask-detector.ipynb) notebook.
+<br>
+Once you have ensured the above requirements are satisfied, to use the application, just open the [comp562-face-mask-detector.ipynb](https://github.com/aannirajpatel/COMP562-Face-Mask-Detect/blob/main/comp562-face-mask-detector.ipynb) notebook with Jupyter Notebook and run the **last** cell.
 
 ## References
 
