@@ -11,15 +11,22 @@ Fall 2020 COMP562 Project at UNC Chapel Hill
 We used the Face Mask Detection dataset on Kaggle: https://www.kaggle.com/andrewmvd/face-mask-detection
 
 ## Results
+<table>
+  <tr>
+<td>
 1. Without mask:<br>
-<img src="https://github.com/aannirajpatel/COMP562-Face-Mask-Detect/raw/main/result-face-no-mask.png" alt="Without mask" title="Without mask">
-
+<img src="https://github.com/aannirajpatel/COMP562-Face-Mask-Detect/raw/main/result-face-no-mask.png" alt="Without mask" title="Without mask" width="200">
+</td>
+<td>
 2. Mask worn incorrectly:<br>
-<img src="https://raw.githubusercontent.com/aannirajpatel/COMP562-Face-Mask-Detect/main/result-mask-worn-incorrect.png" alt="Mask worn incorrectly" title="Mask worn incorrectly">
-
+<img src="https://raw.githubusercontent.com/aannirajpatel/COMP562-Face-Mask-Detect/main/result-mask-worn-incorrect.png" alt="Mask worn incorrectly" title="Mask worn incorrectly" width="200">
+</td>
+<td>
 3: With mask:<br>
-<img src="https://github.com/aannirajpatel/COMP562-Face-Mask-Detect/raw/main/result-face-with-mask.png" alt="With mask" title="With mask">
-
+<img src="https://github.com/aannirajpatel/COMP562-Face-Mask-Detect/raw/main/result-face-with-mask.png" alt="With mask" title="With mask" width="200">
+</td>
+  </tr>
+</table>
 ## Usage
 
 You will require Python 3 along with the following dependencies installed:
