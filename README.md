@@ -12,13 +12,13 @@ We used the Face Mask Detection dataset on Kaggle: https://www.kaggle.com/andrew
 
 ## Results
 1. Without mask:<br>
-![Without mask](https://github.com/aannirajpatel/COMP562-Face-Mask-Detect/raw/main/result-face-no-mask.png "Without mask" | width=100)
+![Without mask](https://github.com/aannirajpatel/COMP562-Face-Mask-Detect/raw/main/result-face-no-mask.png "Without mask")
 
 2. Mask worn incorrectly:<br>
-![Mask worn incorrectly](https://raw.githubusercontent.com/aannirajpatel/COMP562-Face-Mask-Detect/main/result-mask-worn-incorrect.png "Mask worn incorrectly" | width=100)
+![Mask worn incorrectly](https://raw.githubusercontent.com/aannirajpatel/COMP562-Face-Mask-Detect/main/result-mask-worn-incorrect.png "Mask worn incorrectly")
 
 3: With mask:<br>
-![With mask](https://github.com/aannirajpatel/COMP562-Face-Mask-Detect/raw/main/result-face-with-mask.png "With mask" | width=100)
+![With mask](https://github.com/aannirajpatel/COMP562-Face-Mask-Detect/raw/main/result-face-with-mask.png "With mask")
 
 ## Usage
 
