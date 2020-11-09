@@ -10,7 +10,7 @@ Fall 2020 COMP562 Project at UNC Chapel Hill
 
 We used the Face Mask Detection dataset on Kaggle: https://www.kaggle.com/andrewmvd/face-mask-detection
 
-## References:
+## References
 
 1. The original MTCNN research paper: https://arxiv.org/abs/1604.02878
 
