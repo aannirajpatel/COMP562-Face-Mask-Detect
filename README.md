@@ -1,4 +1,4 @@
-# COMP562-Face-Detect
+# COMP562-Face-Mask-Detect
 
 ## About
 Our aim is to analyse and compare two of the most common supervised machine learning algorithms used for detecting if masks are worn in images:
