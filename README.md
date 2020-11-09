@@ -27,6 +27,7 @@ We used the Face Mask Detection dataset on Kaggle: https://www.kaggle.com/andrew
 </td>
   </tr>
 </table>
+
 ## Usage
 
 You will require Python 3 along with the following dependencies installed:
